@@ -8,7 +8,7 @@ O projeto tem a finalidade de descrever alguns fatores determinantes para você 
 
 1. Tempo diário investido no projeto
 
-   Agora vamos entender um pouco mais sobre esses fatores começando pelo fator _tempo diário_ investido. Quando tratamos de freelances, há uma certa demanda do seu tempo em off. Ou seja: depois do trabalho, escola ou aquele tempinho vago no final do dia que você usa pra relaxar e descontrair.
+   Agora vamos entender um pouco mais sobre esses fatores começando pelo fator tempo diário_ investido. Quando tratamos de freelances, há uma certa demanda do seu tempo em off. Ou seja: depois do trabalho, escola ou aquele tempinho vago no final do dia que você usa pra relaxar e descontrair.
    Esse tempo é algo muito valioso para qualquer pessoa, certo? Então claramente temos que levar esse fator em consideração.
 
 2. Dias efetivos trabalhando
