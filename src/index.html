@@ -18,7 +18,7 @@
                 <img class="logo" src="./img/heart-logo.png" alt="Logo He4rtDevs">
             </header>
 
-            <section>
+            <section id="card-section">
                 <article class="card info">
                     <h3 id="card-title">Tempo diário investido no projeto</h3>
                     <p id="card-info">Quando tratamos de freelances, há uma certa demanda do seu tempo em off. Ou seja:
@@ -26,27 +26,30 @@
                         descontrair. Esse tempo é algo muito valioso para qualquer pessoa, certo? Então claramente temos
                         que levar esse fator em consideração.</p>
                 </article>
-                <article>
-                    <img class="img" src="./img/freelancer.svg" alt="Freelancer">
-                </article>
             </section>
 
-            <aside class="card calc">
-                <h3>Calculadora para Freelancer</h3>
+            <section id="image">
+                <img class="img" src="./img/freelancer.svg" alt="Freelancer">
+            </section>
 
-                <label for="hours-day">Tempo trabalhado diariamente</label>
-                <input type="number" id="hours-day" class="input">
-                <label for="days-week">Dias efetivos trabalhados na semana</label>
-                <input type="number" id="days-week" class="input">
-                <label for="project-holiday">Dias de férias pelo projeto</label>
-                <input type="number" id="project-holiday" class="input">
-                <label for="project-cost">Valor total do Projeto</label>
-                <input type="number" id="project-cost" class="input">
+            <section id="calc-section">
+                <aside class="card calc">
+                    <h3>Calculadora para Freelancer</h3>
 
-                <button class="btn" id="calculate">Calcular</button>
+                    <label for="hours-day">Tempo trabalhado diariamente</label>
+                    <input type="number" id="hours-day" class="input">
+                    <label for="days-week">Dias efetivos trabalhados na semana</label>
+                    <input type="number" id="days-week" class="input">
+                    <label for="project-holiday">Dias de férias pelo projeto</label>
+                    <input type="number" id="project-holiday" class="input">
+                    <label for="project-cost">Valor total do Projeto</label>
+                    <input type="number" id="project-cost" class="input">
 
-                <span id="result"></span>
-            </aside>
+                    <button class="btn" id="calculate">Calcular</button>
+
+                    <span id="result"></span>
+                </aside>
+            </section>
         </div>
     </main>
 
