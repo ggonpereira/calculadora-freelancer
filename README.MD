@@ -1,6 +1,6 @@
-# Projeto 001 - Calculadora de hora p/ Freelas (1/3)
+# Projeto 001 - Calculadora de hora p/ Freelas
 
-Uma calculadora que irá te mostrar o valor da sua hora perante o freelance cotado.
+Uma calculadora que irá te mostrar o valor da sua hora perante o freelance cotado, facilitando a vida do trabalhador.
 
 ## Qual é o valor que o desafio entrega?
 
