@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculadora de Freela - He4rtDevs</title>
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Acme&family=Roboto:wght@300&@600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./src/main.css" />
+  </head>
+
+  <body>
+    <main>
+      <div class="container">
+        <header>
+          <img
+            class="logo"
+            src="./src/img/heart-logo.png"
+            alt="Logo He4rtDevs"
+          />
+        </header>
+
+        <section id="card-section">
+          <article class="card info">
+            <h3 id="card-title">Tempo diário investido no projeto</h3>
+            <p id="card-info">
+              Quando tratamos de freelances, há uma certa demanda do seu tempo
+              em off. Ou seja: depois do trabalho, escola ou aquele tempinho
+              vago no final do dia que você usa pra relaxar e descontrair. Esse
+              tempo é algo muito valioso para qualquer pessoa, certo? Então
+              claramente temos que levar esse fator em consideração.
+            </p>
+          </article>
+        </section>
+
+        <section id="image">
+          <img class="img" src="./src/img/freelancer.svg" alt="Freelancer" />
+        </section>
+
+        <section id="calc-section">
+          <aside class="card calc">
+            <h3>Calculadora para Freelancer</h3>
+
+            <label for="hours-day">Tempo trabalhado diariamente</label>
+            <input type="number" id="hours-day" class="input" />
+            <label for="days-week">Dias efetivos trabalhados na semana</label>
+            <input type="number" id="days-week" class="input" />
+            <label for="project-holiday">Dias de férias pelo projeto</label>
+            <input type="number" id="project-holiday" class="input" />
+            <label for="project-cost">Valor total do Projeto</label>
+            <input type="number" id="project-cost" class="input" />
+
+            <button class="btn" id="calculate">Calcular</button>
+
+            <span id="result"></span>
+          </aside>
+        </section>
+      </div>
+    </main>
+
+    <script src="./src/main.js"></script>
+  </body>
+</html>
