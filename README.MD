@@ -2,7 +2,7 @@
 
 Uma calculadora que irá te mostrar o valor da sua hora perante o freelance cotado, facilitando a vida do trabalhador.
 
-Visite: www.calculadorafreelancer.tk
+Visite: calculadorafreelancer.tk
 
 ## Qual é o valor que o desafio entrega?
 
