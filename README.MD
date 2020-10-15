@@ -2,6 +2,8 @@
 
 Uma calculadora que irá te mostrar o valor da sua hora perante o freelance cotado, facilitando a vida do trabalhador.
 
+Visite: http://calculadorafreelancer.tk
+
 ## Qual é o valor que o desafio entrega?
 
 O projeto tem a finalidade de descrever alguns fatores determinantes para você saber o seu valor da sua hora em um freelance.
